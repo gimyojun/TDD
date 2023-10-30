@@ -6,3 +6,21 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35
+/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
+/sonarlint/securityhotspotstore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
+/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+/sonarlint/securityhotspotstore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+/sonarlint/issuestore/5/d/5d99ccd3920eb2244a0c4686e8409a0ee508e1ab
+/sonarlint/securityhotspotstore/5/d/5d99ccd3920eb2244a0c4686e8409a0ee508e1ab
+/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233
+/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f38737233
+/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+/sonarlint/issuestore/c/0/c015653186ec76b7cc1cb6d9ff60f1143a1ada85
+/sonarlint/securityhotspotstore/c/0/c015653186ec76b7cc1cb6d9ff60f1143a1ada85
+/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35
+/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+/sonarlint/securityhotspotstore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+/sonarlint/issuestore/index.pb
+/sonarlint/securityhotspotstore/index.pb
